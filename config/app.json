@@ -1,0 +1,16 @@
+{
+  "appName": "blog1.1",
+  "appMode": "debug",
+  "appHost": "0.0.0.0",
+  "appPort": "3000",
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "235662",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "db_name": "blog",
+    "charset": "utf8",
+    "show_sql": true
+  }
+}
